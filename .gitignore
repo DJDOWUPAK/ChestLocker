@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+Content/bin/
+Content/obj/
+highscore.txt
+*.user
+*.suo
